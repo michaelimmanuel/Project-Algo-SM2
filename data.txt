@@ -1,0 +1,9 @@
+Nama Pengirim: wa
+Nama Penerima: we
+Dimensi (panjangxlebarxtinggi): 1x2x3
+Nama Pengirim: we
+Nama Penerima: wo
+Dimensi (panjangxlebarxtinggi): 2x3x4
+Nama Pengirim: tes
+Nama Penerima: tes
+Dimensi (panjangxlebarxtinggi): 10x20x30
